@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target" : "ES5",
+        "pretty" : true,
+        "outDir": "build"
+    },
+    "files": [
+        "main.ts",
+        "typeVehicule/voiture.ts",
+        "typeVehicule/moto.ts",
+        "typeVehicule/camion.ts"
+    ]
+ }
